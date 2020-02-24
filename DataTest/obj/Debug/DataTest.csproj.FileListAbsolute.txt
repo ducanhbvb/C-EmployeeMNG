@@ -1,0 +1,9 @@
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\DataTest\bin\Debug\DataTest.exe.config
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\DataTest\bin\Debug\DataTest.exe
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\DataTest\bin\Debug\DataTest.pdb
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\DataTest\obj\Debug\DataTest.csprojResolveAssemblyReference.cache
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\DataTest\obj\Debug\DataTest.frmTestData.resources
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\DataTest\obj\Debug\DataTest.Properties.Resources.resources
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\DataTest\obj\Debug\DataTest.csproj.GenerateResource.Cache
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\DataTest\obj\Debug\DataTest.exe
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\DataTest\obj\Debug\DataTest.pdb
